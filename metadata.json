@@ -1,0 +1,6 @@
+{
+  "name": "NetSwitch AI",
+  "description": "Intelligent Mobile Application for Predictive Network Switching — real-time Android Wi-Fi & Cellular telemetry, performance probing, explainable scoring, predictive degradation analytics, app-level switching, Room persistence, and Supabase cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

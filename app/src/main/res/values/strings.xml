@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NetSwitch AI</string>
+    <string name="project_full_title">Intelligent Mobile Application for Predictive Network Switching</string>
+    <string name="project_subtitle">Mobile Computing Capstone • Real-Time Telemetry &amp; App-Level Switching</string>
+    <string name="status_live">LIVE</string>
+    <string name="status_paused">PAUSED</string>
+    <string name="status_stopped">STOPPED</string>
+    <string name="status_not_available">NOT AVAILABLE</string>
+    <string name="notification_channel_monitoring">Network Monitoring</string>
+    <string name="notification_channel_monitoring_desc">Persistent status updates while NetSwitch AI monitors live Wi-Fi and cellular telemetry.</string>
+    <string name="notification_channel_alerts">Switching &amp; Degradation Alerts</string>
+    <string name="notification_channel_alerts_desc">Notifications when predictive degradation or automatic app-level switching occurs.</string>
+    <string name="action_start_demo">START LIVE DEMONSTRATION</string>
+    <string name="action_stop_demo">STOP DEMONSTRATION</string>
+    <string name="platform_switching_disclosure">Android restricts third-party apps from modifying system-wide global network settings or toggling mobile data. NetSwitch AI uses ConnectivityManager.requestNetwork() and bindProcessToNetwork() to route this app\'s traffic over the optimal available interface.</string>
+</resources>
